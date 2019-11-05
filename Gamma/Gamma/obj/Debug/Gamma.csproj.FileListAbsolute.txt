@@ -1,0 +1,6 @@
+C:\Users\ragarwal62\Desktop\C#-Assessment\Gamma\Gamma\bin\Debug\Gamma.exe.config
+C:\Users\ragarwal62\Desktop\C#-Assessment\Gamma\Gamma\bin\Debug\Gamma.exe
+C:\Users\ragarwal62\Desktop\C#-Assessment\Gamma\Gamma\bin\Debug\Gamma.pdb
+C:\Users\ragarwal62\Desktop\C#-Assessment\Gamma\Gamma\obj\Debug\Gamma.csprojAssemblyReference.cache
+C:\Users\ragarwal62\Desktop\C#-Assessment\Gamma\Gamma\obj\Debug\Gamma.exe
+C:\Users\ragarwal62\Desktop\C#-Assessment\Gamma\Gamma\obj\Debug\Gamma.pdb
